@@ -1,5 +1,4 @@
 <h1 align="center">Merhaba 👋, Ben Basri Akkaya</h1>
-<h3 align="center">Türkiye'den tutkulu bir frontend geliştiricisiyim</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basriakkaya&label=Profil%20görüntülenme&color=0e75b6&style=flat" alt="basriakkaya" /> </p>
 
