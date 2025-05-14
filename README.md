@@ -45,8 +45,7 @@
 ## 🕵🏻‍♂️ Nerelerdeyim?
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/basriakkaya/)
-- 📫 basri.al@icloud.com
-- 🌌 GitHub evreninde @basriakkaya olarak iz bırakmadan ilerliyorum.
+
 
 ---
 
