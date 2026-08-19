@@ -6,7 +6,17 @@
 Basri Akkaya — Security Researcher
 ```
 
+[![Website](https://img.shields.io/badge/basriakkaya.com-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=7EE787)](https://www.basriakkaya.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Basri_Akkaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basriakkaya/)
+
+## `cve_records.db`
+
+<sub>Public vulnerability records · Click a record to verify</sub>
+
+<br><br>
+
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-52662"><img src="assets/cve/cve-2026-52662.svg" width="100%" alt="CVE-2026-52662 — public CVE record"></a>
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-16323"><img src="assets/cve/cve-2026-16323.svg" width="100%" alt="CVE-2026-16323 — Execution After Redirect vulnerability"></a>
 
 ## `hall_of_fame.log`
 
