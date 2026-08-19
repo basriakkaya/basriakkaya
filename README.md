@@ -1,29 +1,22 @@
-<div align="center">
+# Basri Akkaya
 
-```text
-┌──(realkage㉿github)-[~/recognition]
-└─$ whoami
-Basri Akkaya — Security Researcher
-```
+Security researcher and Computer Engineering student focused on web and application security, network security, and responsible disclosure. I research vulnerabilities, document their impact clearly, and report findings through coordinated disclosure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basri_Akkaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basriakkaya/)
+[Website](https://www.basriakkaya.com) · [LinkedIn](https://www.linkedin.com/in/basriakkaya/)
 
-## `hall_of_fame.log`
+## `CVE Records`
 
-<sub>Responsible disclosure acknowledgements · Click a record to verify</sub>
+| ID | Research |
+|---|---|
+| [CVE-2026-52662](https://www.cve.org/CVERecord?id=CVE-2026-52662) | Embedded network device security |
+| [CVE-2026-16323](https://www.cve.org/CVERecord?id=CVE-2026-16323) | Execution After Redirect and access-control enforcement |
 
-<br><br>
+## `Hall of Fame`
 
-<a href="https://bugcrowd.com/h/realkage"><img src="assets/hof/nasa-vdp.svg" width="100%" alt="NASA Vulnerability Disclosure Program — 2026 Hall of Fame"></a>
-<a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/"><img src="assets/hof/university-of-twente.svg" width="100%" alt="University of Twente — 2026 Responsible Disclosure Hall of Fame"></a>
-<a href="https://www.arcelikglobal.com/en/vulnerability-disclosure-hall-of-fame/2026-vulnerability-disclosure-hall-of-fame/"><img src="assets/hof/arcelik-turkiye.svg" width="100%" alt="Arçelik Türkiye — 2026 Vulnerability Disclosure Hall of Fame"></a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7470684004795437056/"><img src="assets/hof/goce-delcev-university.svg" width="100%" alt="Goce Delcev University — Hall of Fame"></a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7457327912598257664/"><img src="assets/hof/rahim-usta.svg" width="100%" alt="Rahim Usta Anatolian High School — Hall of Fame"></a>
-
-<br>
-
-```text
-[ disclosure: responsible ] [ evidence: public ] [ status: keep_hunting ]
-```
-
-</div>
+| Organization | Recognition |
+|---|---|
+| [NASA Vulnerability Disclosure Program](https://bugcrowd.com/h/realkage) | 2026 Hall of Fame · Two P1 reports accepted |
+| [University of Twente](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/) | 2026 Responsible Disclosure Hall of Fame |
+| [Arçelik Türkiye](https://www.arcelikglobal.com/en/vulnerability-disclosure-hall-of-fame/2026-vulnerability-disclosure-hall-of-fame/) | 2026 Vulnerability Disclosure Hall of Fame |
+| [Goce Delcev University](https://www.linkedin.com/feed/update/urn:li:activity:7470684004795437056/) | Responsible disclosure recognition |
+| [Rahim Usta Anatolian High School](https://www.linkedin.com/feed/update/urn:li:activity:7457327912598257664/) | Responsible disclosure recognition |
