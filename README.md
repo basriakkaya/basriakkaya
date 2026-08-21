@@ -6,10 +6,11 @@ Security researcher and Computer Engineering student focused on web and applicat
 
 ## `CVE Records`
 
-| ID | Research |
-|---|---|
-| [CVE-2026-52662](https://www.cve.org/CVERecord?id=CVE-2026-52662) | Embedded network device security |
-| [CVE-2026-16323](https://www.cve.org/CVERecord?id=CVE-2026-16323) | Execution After Redirect and access-control enforcement |
+| ID | Vendor / Product | Severity | Advisory |
+|---|---|---:|---|
+| [CVE-2026-52662](https://www.cve.org/CVERecord?id=CVE-2026-52662) | Embedded network device security | — | CVE record |
+| [CVE-2026-16323](https://www.cve.org/CVERecord?id=CVE-2026-16323) | FuyaWeb · ArchitectPanel | CVSS 3.1 · **7.5 HIGH** | [TR-26-0882](https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0882) |
+| [CVE-2026-19441](https://www.cve.org/CVERecord?id=CVE-2026-19441) | IKAS Technology · Rush | CVSS 3.1 · **5.3 MEDIUM** | [TR-26-0883](https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0883) |
 
 ## `Hall of Fame`
 
