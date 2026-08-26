@@ -17,6 +17,7 @@ Security researcher and Computer Engineering student focused on web and applicat
 | Organization | Recognition |
 |---|---|
 | [NASA Vulnerability Disclosure Program](https://bugcrowd.com/h/realkage) | 2026 Hall of Fame · Two P1 reports accepted |
+| [U.S. Department of Homeland Security VDP](https://bugcrowd.com/h/realkage) | 2026 Hall of Fame · P3 accepted on `*.FEMA.GOV` |
 | [University of Twente](https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/) | 2026 Responsible Disclosure Hall of Fame |
 | [Arçelik Türkiye](https://www.arcelikglobal.com/en/vulnerability-disclosure-hall-of-fame/2026-vulnerability-disclosure-hall-of-fame/) | 2026 Vulnerability Disclosure Hall of Fame |
 | [Goce Delcev University](https://www.linkedin.com/feed/update/urn:li:activity:7470684004795437056/) | Responsible disclosure recognition |
